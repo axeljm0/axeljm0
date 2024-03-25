@@ -16,8 +16,7 @@
 <br>
 
 - Apassionate Self-taught Ful-Stack developer
-- Software Engieering Student and Computer Science Student 
-- Playing CTF's at spare time
+- Software Engieering and Computer Science Student 
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
 
