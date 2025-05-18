@@ -15,10 +15,8 @@
 
 <br>
 
-- Apassionate Self-taught Full Stack developer
+- Full Stack developer
 - Software Engieering and Computer Science Student 
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
