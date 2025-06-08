@@ -38,7 +38,7 @@ Axel</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [digital resources for teachers]([https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j](https://www.facebook.com/photo?fbid=2000066417020003&set=pcb.2000069193686392))
+- [digital resources for teachers]([https://www.facebook.com/photo?fbid=2000066417020003&set=pcb.2000069193686392])
 <!-- BLOG-POST-LIST:END -->
 
 ---
