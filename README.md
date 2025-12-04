@@ -28,7 +28,7 @@ Axel</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://x.com/axeldev0">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://https://www.youtube.com/@axeljimenezmartich3301">
+		<a style="margin-left: 10px;" target="_blank" href="https://https://www.youtube.com/@axeloncode">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 
