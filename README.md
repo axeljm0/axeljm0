@@ -28,11 +28,3 @@ Axel</a></h1>
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [digital resources for teachers]([https://www.facebook.com/photo?fbid=2000066417020003&set=pcb.2000069193686392])
-<!-- BLOG-POST-LIST:END -->
-
----
